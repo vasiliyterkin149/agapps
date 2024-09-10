@@ -1,0 +1,12 @@
+{
+    "Enable": false,
+    "Locale": ["Russian"],
+    "Times": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Sims": ["250", "401", "283", "400", "257", "437", "259", "436", "434"],
+    "Links": 
+    [ 
+          { "Lang":"Russian", "Link": [""] }
+    ]
+ }
